@@ -17,7 +17,7 @@ A consummate full-stack engineer possessed of approximately eight years' assiduo
 <table>
 <tr><td><img src="https://img.shields.io/badge/-Role-000?style=flat-square" /></td><td>Full Stack Developer</td></tr>
 <tr><td><img src="https://img.shields.io/badge/-Employer-000?style=flat-square" /></td><td>Devex Ltd</td></tr>
-<tr><td><img src="https://img.shields.io/badge/-Practice-000?style=flat-square" /></td><td>Adi Agency (independent consulting)</td></tr>
+<tr><td><img src="https://img.shields.io/badge/-Website-000?style=flat-square" /></td><td><a href="https://adisocial.vercel.app">Socials</td></tr>
 <tr><td><img src="https://img.shields.io/badge/-Location-000?style=flat-square" /></td><td>Pakistan</td></tr>
 <tr><td><img src="https://img.shields.io/badge/-Email-000?style=flat-square" /></td><td>adi.binsheraz@gmail.com</td></tr>
 <tr><td><img src="https://img.shields.io/badge/-Instagram-000?style=flat-square" /></td><td><a href="https://instagram.com/adibinsheraz">@adibinsheraz</a></td></tr>
