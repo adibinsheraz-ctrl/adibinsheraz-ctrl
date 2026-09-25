@@ -1,4 +1,4 @@
-# Adi Binsheraz
+# ADI Bin Sheraz
 
 ### Full Stack Developer
 
