@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Current-Devex%20Ltd-1a1a1a?style=for-the-badge" />
 </p>
 
-A full stack developer with approximately eight years of professional experience, currently employed at Devex Ltd and proprietor of an independent development practice, Adi Agency. My work spans e-commerce, SaaS, real estate, and service-oriented industries, with an emphasis on engineering rigor and refined user experience in equal measure.
+A consummate full-stack engineer possessed of approximately eight years' assiduously accrued professional experience, presently ensconced at Devex Ltd whilst concurrently presiding over an independent development practice, Adi Agency. My oeuvre traverses e-commerce, SaaS, real estate, and service-oriented verticals, animated in equal measure by engineering rigor and a perspicacious eye for refined user experience.
 
 ---
 
@@ -44,43 +44,49 @@ A full stack developer with approximately eight years of professional experience
 
 ---
 
-## Featured Projects
+## Selected Work
 
-### KeyFlow
-Live typing speed test SaaS, built with Next.js and Supabase.
-🔗 [keyflow.site](https://keyflow.site)
+**KeyFlow** — A live typing-speed assessment platform, architected as a SaaS product using Next.js and Supabase.
+[keyflow.site](https://keyflow.site)
 
-### DIVDOV
-A curated free software and link directory brand, with a matching photo filter web app. Built around a dark background, acid lime green accents, and the Orbitron font as its visual identity.
+**DIVDOV** — A curated repository of complimentary software and resources, accompanied by a companion photo-editing application. Distinguished by a deliberate visual identity: dark backgrounds, acid-lime accenting, and Orbitron typography.
 
-### CoolPool
-An offline multiplayer 8-ball and snooker Android game, aiming for realistic physics and the polish of a commercial mobile game.
+**CoolPool** — An offline, multiplayer 8-ball and snooker application for Android, engineered toward realistic physics and the production polish expected of a commercial mobile title.
 
-### Kips College G-9 Attendance System
-A face recognition based attendance platform for a college project, with department/course/class structure, admin dashboards, and a strong focus on secure, authenticated access.
-🔗 [kipscollege.vercel.app](https://kipscollege.vercel.app)
+**Kips College G-9 Attendance System** — A facial-recognition attendance infrastructure developed for an academic institution, incorporating hierarchical department, course, and class organization, an administrative dashboard, and stringent authenticated access controls.
+[kipscollege.vercel.app](https://kipscollege.vercel.app)
 
-### Kips College Chance & Fine Tracker
-An automated system for tracking a "one chance, then fine" classroom rule, with a fully editable rule engine, admin panel, and a live public view for students and teachers. Built on Supabase.
+**Kips College Chance & Fine Tracker** — An automated disciplinary tracking system governing a "single chance, then penalty" classroom policy, featuring a fully configurable rules engine, administrative console, and a live public-facing view for faculty and students. Built on Supabase.
 
-### Premium 3D Snake
-A 3D, pixel-art styled take on the classic snake game, built for the web with a focus on premium visuals and a solid physics engine.
+**Premium 3D Snake** — A contemporary reinterpretation of the classic snake game, rendered in a pixel-art three-dimensional style with an emphasis on visual fidelity and a rigorously engineered physics system.
 
-### ADI AI ChatBot Interface
-A lightweight, Claude-style chat interface built as a single static HTML file, powered by the OpenRouter API.
+**ADI AI ChatBot Interface** — A minimalist, Claude-inspired conversational interface, implemented as a single static HTML deployment and powered by the OpenRouter API.
 
-### Diet Tracker
-A React-based app for tracking diet progress, styled with a dark theme and acid green accents.
+**Diet Tracker** — A React-based application for nutritional progress monitoring, presented in a dark theme with acid-green accenting.
 
----
+**Compro** — A Next.js-built venture, presently deployed at [adicompro.vercel.app](https://adicompro.vercel.app), awaiting a fuller descriptive treatment.
 
-## Freelance Work
+**Qfarm** — A Vite-powered undertaking, hosted at [qfarm.vercel.app](https://qfarm.vercel.app), likewise pending elaboration.
 
-Through **Adi Agency**, I take on freelance projects on Upwork, with a portfolio spanning web apps, SaaS products, and custom business tools. I handle everything end to end: proposals, architecture, build, and delivery.
+**Adi3D** — A three-dimensional personal portfolio, purpose-built to showcase select works with heightened visual sophistication.
+[adi3d.vercel.app](https://adi3d.vercel.app)
+
+**Social Hub** — A consolidated, Linktree-style landing page aggregating professional and social presences.
+[adisocial.vercel.app](https://adisocial.vercel.app)
+
+**Portfolio** — A supplementary personal showcase, constructed with Vite.
 
 ---
 
-### Let's connect
+## Independent Practice
 
-📧 adi.binsheraz@gmail.com
-📷 [@adibinsheraz](https://instagram.com/adibinsheraz)
+Operating under the **Adi Agency** appellation, I undertake independent engagements sourced primarily via Upwork, with a portfolio encompassing web applications, SaaS products, and bespoke business solutions. Each engagement is stewarded end to end, spanning proposal composition, technical architecture, implementation, and delivery, executed with sedulous attention to detail.
+
+---
+
+## Correspondence
+
+<p>
+  <a href="mailto:adi.binsheraz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/adibinsheraz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
