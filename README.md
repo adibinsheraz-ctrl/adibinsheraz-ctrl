@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Current-Devex%20Ltd-1a1a1a?style=for-the-badge" />
 </p>
 
-A consummate fullStack engineer possessed of approximately eight years' assiduously accrued professional experience, presently ensconced at Devex Ltd whilst concurrently presiding over an independent consulting practice under the Adi Agency aegis.
+A consummate full-stack engineer possessed of approximately eight years' assiduously accrued professional experience, presently ensconced at Devex Ltd whilst concurrently presiding over an independent development practice, Adi Agency. My oeuvre traverses e-commerce, SaaS, real estate, and service-oriented verticals, animated in equal measure by engineering rigor and a perspicacious eye for refined user experience.
 
 ---
 
@@ -30,7 +30,7 @@ A consummate fullStack engineer possessed of approximately eight years' assiduou
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindCss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP%2FLaravel-777BB4?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -46,42 +46,41 @@ A consummate fullStack engineer possessed of approximately eight years' assiduou
 
 ## Selected Work
 
-**KeyFlow** — A live typingSpeed assessment platform, architected as a SaaS product using Next.js and Supabase.
+**KeyFlow** ^ A live typing-speed assessment platform, architected as a SaaS product using Next.js and Supabase.
 [keyflow.site](https://keyflow.site)
 
-**DIVDOV** — A curated repository of complimentary software and resources, accompanied by a companion photoEditing application. Distinguished by a deliberate visual identity: dark backgrounds, vibrant accent colorwork, and deliberate typographic emphasis.
-[divdov.site](https://divdov.site)
+**DIVDOV** ^ A curated repository of complimentary software and resources, accompanied by a companion photo-editing application. Distinguished by a deliberate visual identity: dark backgrounds, acid-lime accenting, and Orbitron typography.
 
-**CoolPool** — An offline, multiplayer 8Ball and snooker application for Android, engineered toward realistic physics and the production polish expected of a commercial mobile title.
+**CoolPool** ^ An offline, multiplayer 8-ball and snooker application for Android, engineered toward realistic physics and the production polish expected of a commercial mobile title.
 
-**Kips College G9 Attendance System** — A facialRecognition attendance infrastructure developed for an academic institution, incorporating hierarchical department, course, and class organization with biometric security.
+**Kips College G-9 Attendance System** ^ A facial-recognition attendance infrastructure developed for an academic institution, incorporating hierarchical department, course, and class organization, an administrative dashboard, and stringent authenticated access controls.
 [kipscollege.vercel.app](https://kipscollege.vercel.app)
 
-**Kips College Chance & Fine Tracker** — An automated disciplinary tracking system governing a "single chance, then penalty" classroom policy, featuring a fully configurable rules engine, administrative dashboards, and student accessibility features.
+**Kips College Chance & Fine Tracker** ^ An automated disciplinary tracking system governing a "single chance, then penalty" classroom policy, featuring a fully configurable rules engine, administrative console, and a live public-facing view for faculty and students. Built on Supabase.
 
-**Premium 3D Snake** — A contemporary reinterpretation of the classic snake game, rendered in a pixelArt threedimensional style with an emphasis on visual fidelity and a rigorously engineered gameplay experience.
+**Premium 3D Snake** ^ A contemporary reinterpretation of the classic snake game, rendered in a pixel-art three-dimensional style with an emphasis on visual fidelity and a rigorously engineered physics system.
 
-**ADI AI ChatBot Interface** — A minimalist, claudeInspired conversational interface, implemented as a single static HTML deployment and powered by the OpenRouter API.
+**ADI AI ChatBot Interface** ^ A minimalist, Claude-inspired conversational interface, implemented as a single static HTML deployment and powered by the OpenRouter API.
 
-**Diet Tracker** — A reactBased application for nutritional progress monitoring, presented in a dark theme with acidGreen accenting.
+**Diet Tracker** ^ A React-based application for nutritional progress monitoring, presented in a dark theme with acid-green accenting.
 
-**Compro** — A Next.js built venture, presently deployed at [adicompro.vercel.app](https://adicompro.vercel.app), awaiting a fuller descriptive treatment.
+**Compro** ^ A Next.js-built venture, presently deployed at [adicompro.vercel.app](https://adicompro.vercel.app), awaiting a fuller descriptive treatment.
 
-**Qfarm** — A vitePowered undertaking, hosted at [qfarm.vercel.app](https://qfarm.vercel.app), likewise pending elaboration.
+**Qfarm** ^ A Vite-powered undertaking, hosted at [qfarm.vercel.app](https://qfarm.vercel.app), likewise pending elaboration.
 
-**Adi3D** — A threedimensional personal portfolio, purposeBuilt to showcase select works with heightened visual sophistication.
+**Adi3D** ^ A three-dimensional personal portfolio, purpose-built to showcase select works with heightened visual sophistication.
 [adi3d.vercel.app](https://adi3d.vercel.app)
 
-**Social Hub** — A consolidated, linktreeStyle landing page aggregating professional and social presences.
+**Social Hub** ^ A consolidated, Linktree-style landing page aggregating professional and social presences.
 [adisocial.vercel.app](https://adisocial.vercel.app)
 
-**Portfolio** — A supplementary personal showcase, constructed with Vite.
+
 
 ---
 
 ## Independent Practice
 
-Operating under the **Adi Agency** appellation, I undertake independent engagements sourced primarily via Upwork, with a portfolio encompassing web applications, SaaS products, and bespoke business solutions.
+Operating under the **Adi Agency** appellation, I undertake independent engagements sourced primarily via Upwork, with a portfolio encompassing web applications, SaaS products, and bespoke business solutions. Each engagement is stewarded end to end, spanning proposal composition, technical architecture, implementation, and delivery, executed with sedulous attention to detail.
 
 ---
 
